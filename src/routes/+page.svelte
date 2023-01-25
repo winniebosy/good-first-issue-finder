@@ -37,7 +37,7 @@
         class="h-[50px] w-[50px] lg:h-[100px] lg:w-[100px]"
         slot="image"
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
+        viewBox="0 0 24 24" aria-hidden="true"
       >
         <defs>
           <linearGradient id="0" x1="0" y1="0.51" x2="1" y2="0.49">
